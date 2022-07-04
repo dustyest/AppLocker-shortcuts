@@ -1,3 +1,6 @@
-# AppLocker-shortcuts
-AppLocker shortcut for iOS &amp; iPad OS Siri Shortcuts App.
+# AppLocker Shortcut
+**AppLocker** is an **App Locking** shortcut for the Siri Shortcuts App, Avalible on iOS, iPadOS, and MacOS.
+
 Not Available Yet, Coming soon.
+
+
